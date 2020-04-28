@@ -1,6 +1,6 @@
-# Vue国际化(vue-i18n) 示例
+### Vue国际化(vue-i18n) 示例
 
-## 安装
+## 项目初始化
 ```
 npm install
 ```
